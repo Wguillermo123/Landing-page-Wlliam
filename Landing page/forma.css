@@ -1,0 +1,19 @@
+main{
+    margin:auto;
+    width:98%;
+}
+footer{
+    text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+    main(
+        overflow: hidden;
+}
+main section,
+main figure{
+    float: 
+    width: 45;
+}
+main figure(
+    text-emphasis: none;
